@@ -1,0 +1,10 @@
+name: firstplug
+version: 0.1
+main: com.mikle.Main
+author: zvonar
+description: Test
+commands:
+  teston:
+    usage: /teston
+  testoff:
+    usage: /testoff

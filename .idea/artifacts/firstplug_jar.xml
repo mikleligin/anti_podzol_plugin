@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="firstplug:jar">
+    <output-path>$USER_HOME$/Desktop/сервак/myplug</output-path>
+    <root id="archive" name="firstplug.jar">
+      <element id="module-output" name="firstplug.main" />
+    </root>
+  </artifact>
+</component>
